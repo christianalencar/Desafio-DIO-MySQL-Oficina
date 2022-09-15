@@ -21,6 +21,6 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 
 Status: [EM DESENVOLVIMENTO]
 
-15/09/2022 - Conclusão das classes;
-15/09/2022 - Preparação da estrutura para ligação do banco;
+15/09/2022 - Conclusão das classes; <br>
+15/09/2022 - Preparação da estrutura para ligação do banco; <br>
 15/09/2022 - Ligação parcial das FK;
